@@ -1,0 +1,1 @@
+Comme vous pouvez le voir, j'ai utilisé le même fichier CSS et JavaScript pour toutes les pages, mais j'ai créé un fichier HTML distinct pour chaque page. J'ai également créé un dossier "images" pour stocker toutes les images utilisées sur le site.
